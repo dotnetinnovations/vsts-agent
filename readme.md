@@ -1,6 +1,8 @@
-# VSTS Agent in a Windows Docker container
+VSTS Agent in a Windows Docker container
+========================================
 
-##How to run
+How to run
+----------
 
 Supply your account name and VSTS token in the docker run command.
 
